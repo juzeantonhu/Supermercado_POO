@@ -14,7 +14,7 @@ public class SupermercadoClass implements Supermercado{
 	private static final String IS_ITEM = "Artigo existente!";
 	private static final String ADD_ITEM = "Artigo adicionado com sucesso.";
 	private static final String NO_ITEM = "Saco ou artigo inexistentes!";	
-	private static final String FULL = "Capacidade excedida!";
+	//private static final String FULL = "Capacidade excedida!";
 	private static final String ADD_BAG = "Saco adicionado com sucesso.";
 	private static final String NO_BAG = "Carrinho ou saco inexistentes!";
 	private static final String NO_CART = "Carrinho inexistente!";	
